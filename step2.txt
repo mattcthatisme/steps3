@@ -1,0 +1,2 @@
+xbps-install terminus-fonts fonts-roboto-ttf
+xbps-install tk compton i3-gaps rxvt-unicode dmenu i3message feh
