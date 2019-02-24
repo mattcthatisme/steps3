@@ -1,1 +1,1 @@
-xbps-install bc ed sharutils tcl yasm alsa-utils alsa-tools mpg123 wget
+xbps-install bc ed sharutils tcl yasm alsa-utils alsa-oss mpg123 wget
